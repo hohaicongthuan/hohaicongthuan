@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🎮 I make games. I'm just a person who is passionate about making and playing 3D video games.
+### 🎮 I make games. I'm just a person who is passionate about making and playing 3-D video games.
 
 I'm currently working on a project on my own. It's called EL73. It's a 3D, first person, adventure, puzzle-solving game and it's still under development.
 <!--
