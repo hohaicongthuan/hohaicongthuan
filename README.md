@@ -7,10 +7,13 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hohaicongthuan&show_icons=true&count_private=true&theme=algolia&bg_color=30,084d08,065e5b"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hohaicongthuan&show_icons=true&count_private=true&theme=algolia&bg_color=30,084d08,065e5b"/>
 </a>
+
+<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohaicongthuan&layout=compact&lang_count=10&theme=algolia&bg_color=30,084d08,065e5b"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohaicongthuan&layout=compact&lang_count=10&theme=algolia&bg_color=30,084d08,065e5b"/>
 </a>
 
 <!--
