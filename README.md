@@ -13,7 +13,7 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohaicongthuan&layout=compact&lang_count=10&theme=algolia&bg_color=30,084d08,065e5b"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohaicongthuan&layout=compact&langs_count=10&theme=algolia&bg_color=30,084d08,065e5b"/>
 </a>
 
 <!--
