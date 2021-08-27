@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### 🎮 I make games. I'm just a person who is passionate about making and playing 3-D video games.
-
 ### 🌱 I’m currently studying Computer Engineering at University of Information Technology.
 
 <br>
