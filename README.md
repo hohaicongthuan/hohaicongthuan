@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🏳️‍🌈👓🎮💻 Trying to figure out what to do with my life.
-My name is Thuan, a computer enthusiast and a typical nerd. I enjoy learning about programming, 3D graphics, electronics, etc. (well, basically everything related to computer).
+My name is Thuan. I'm a computer enthusiast and a typical nerd. I enjoy learning about programming, 3D graphics, electronics, etc. (well, basically everything related to computer).
 
 ## ✉️ You can find & reach me via:
 * E-mail: hohaicongthuan@gmail.com
