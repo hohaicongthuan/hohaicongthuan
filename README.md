@@ -16,7 +16,7 @@ Github Stats | Most Used Languages (proly a little inaccurate)
 :-:|:-:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hohaicongthuan&show_icons=true&count_private=true&theme=algolia&bg_color=30,084d08,065e5b"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohaicongthuan&layout=compact&langs_count=10&theme=algolia&bg_color=30,084d08,065e5b"/></a>
 
-# ❤️️🧡💛💚💙💜 Thank you for checking out this page! ❤️️🧡💛💚💙💜
+## ❤️️🧡💛💚💙💜 Thank you for checking out this page! ❤️️🧡💛💚💙💜
 
 <!--
 **hohaicongthuan/hohaicongthuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
