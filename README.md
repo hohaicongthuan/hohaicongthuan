@@ -6,7 +6,7 @@ My name is Thuan. I'm a computer enthusiast and a typical nerd. I enjoy learning
 ## ✉️ You can find & reach me via:
 * E-mail: hohaicongthuan@gmail.com
 * Website: https://hohaicongthuan.github.io/
-* Youtube: https://www.youtube.com/channel/UCecoKgExXSAqhpkokho0pbQ
+* Youtube: https://www.youtube.com/@hohaicongthuan
 * Twitter: https://twitter.com/ThuanHo0x64/
 * Artstation: https://hohaicongthuan.artstation.com/
 * Instagram: https://instagram.com/hohaicongthuan/
