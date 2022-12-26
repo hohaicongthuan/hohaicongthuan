@@ -1,16 +1,18 @@
 # Hi there 👋
 
-## 🏳️‍🌈👓🎮💻 Trying to figure out what to do with my life.
-My name is Thuan. I'm a computer enthusiast and a typical nerd. I enjoy learning about programming, 3D graphics, electronics, etc. (well, basically everything related to computer).
+## 🏳️‍🌈👓🎮💻 About me:
+
+My name is Thuan. I'm a computer enthusiast and a typical nerd. I enjoy learning about programming, 3D graphics, electronics, etc. (well, basically everything related to computer). I'm also interested in game development, especially with [Unreal Engine](https://unrealengine.com).
 
 ## ✉️ You can find & reach me via:
+
 * E-mail: hohaicongthuan@gmail.com
 * Website: https://hohaicongthuan.github.io/
 * Youtube: https://www.youtube.com/@hohaicongthuan
 * Twitter: https://twitter.com/ThuanHo0x64/
 * Artstation: https://hohaicongthuan.artstation.com/
 * Instagram: https://instagram.com/hohaicongthuan/
-* Facebook/Messenger: https://facebook.com/congthuan3334/ (rarely use)
+* Facebook/Messenger: https://facebook.com/congthuan3334/ (rarely used)
 
 Github Stats | Most Used Languages (proly a little inaccurate)
 :-:|:-:
