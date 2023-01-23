@@ -12,7 +12,6 @@ My name is Thuan. I'm a computer enthusiast and a typical nerd. I enjoy learning
 * Twitter: https://twitter.com/ThuanHo0x64/
 * Artstation: https://hohaicongthuan.artstation.com/
 * Instagram: https://instagram.com/hohaicongthuan/
-* Facebook/Messenger: https://facebook.com/congthuan3334/ (rarely used)
 
 Github Stats | Most Used Languages (proly a little inaccurate)
 :-:|:-:
