@@ -2,7 +2,7 @@
 
 ## 🏳️‍🌈👓🎮💻 About me:
 
-My name is Thuan. I'm a computer enthusiast and a typical nerd. I enjoy learning about programming, 3D graphics, electronics, etc. (well, basically everything related to computer). I'm also interested in game development, especially with [Unreal Engine](https://unrealengine.com).
+My name is Thuan. I'm a computer enthusiast and a typical nerd. I enjoy learning about programming, 3D graphics, electronics, etc. (well, basically everything related to computer). I'm also interested in game development.
 
 ## ✉️ You can find & reach me via:
 
